@@ -274,6 +274,61 @@ function App() {
                 />
                 <div className="gallery-caption">Every moment with you is perfect, just like this beautiful photo</div>
               </div>
+              <div className="gallery-item">
+                <div className="gallery-category">Gym Motivation</div>
+                <img 
+                  src="https://customer-assets.emergentagent.com/job_pic-collection-8/artifacts/0wi4my5z_8B32081A-7EBE-4105-B19B-EDEA25E3D9BA.JPG" 
+                  className="gallery-photo" 
+                  alt="Gym motivation selfie" 
+                  width="347" 
+                  height="300"
+                />
+                <div className="gallery-caption">Your "Gym-ish today" energy - love your dedication and strength</div>
+              </div>
+              <div className="gallery-item">
+                <div className="gallery-category">Daily Improvement</div>
+                <img 
+                  src="https://customer-assets.emergentagent.com/job_pic-collection-8/artifacts/bq4e1uyt_457BD146-93EB-437B-9056-B5E60343A768.JPG" 
+                  className="gallery-photo" 
+                  alt="Improve everyday mindset" 
+                  width="347" 
+                  height="300"
+                />
+                <div className="gallery-caption">Your "Improve 0.01% everyday" mindset inspires me beyond words</div>
+              </div>
+              <div className="gallery-item">
+                <div className="gallery-category">Sophisticated Look</div>
+                <img 
+                  src="https://customer-assets.emergentagent.com/job_pic-collection-8/artifacts/cutyiofw_1826CEE5-4989-4501-A76B-374D585F35B0.JPG" 
+                  className="gallery-photo" 
+                  alt="Sophisticated with glasses" 
+                  width="347" 
+                  height="300"
+                />
+                <div className="gallery-caption">Those glasses make you look so sophisticated and incredibly handsome</div>
+              </div>
+              <div className="gallery-item">
+                <div className="gallery-category">Home Comfort</div>
+                <img 
+                  src="https://customer-assets.emergentagent.com/job_pic-collection-8/artifacts/hnajpk10_4EBC4F54-D0FB-4324-A4B0-446AC4DE420E.JPG" 
+                  className="gallery-photo" 
+                  alt="Comfortable at home" 
+                  width="347" 
+                  height="300"
+                />
+                <div className="gallery-caption">Your relaxed home vibes - love seeing you comfortable and at peace</div>
+              </div>
+              <div className="gallery-item">
+                <div className="gallery-category">Strong & Stunning</div>
+                <img 
+                  src="https://customer-assets.emergentagent.com/job_pic-collection-8/artifacts/as3gkh8n_453EFB2F-7273-4398-9351-C2DB824FB8D7.JPG" 
+                  className="gallery-photo" 
+                  alt="Strong and attractive" 
+                  width="347" 
+                  height="300"
+                />
+                <div className="gallery-caption">Your strength and natural attractiveness in every single shot</div>
+              </div>
             </div>
           </div>
         </div>
