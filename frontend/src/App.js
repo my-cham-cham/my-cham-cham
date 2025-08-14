@@ -161,57 +161,7 @@ function App() {
         </div>
       </section>
 
-      {/* Brain Image Section */}
-      <section className="brain-section">
-        <div className="container">
-          <div className="brain-content">
-            <h2 className="section-title">My Brain When I'm With You 🧠💕</h2>
-            <div className="brain-image-container">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" className="brain-image" width="800" height="600">
-                <defs>
-                  <linearGradient id="brainGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-                    <stop offset="0%" style={{stopColor: "#ffffff", stopOpacity: 1}} />
-                    <stop offset="100%" style={{stopColor: "#f0f0f0", stopOpacity: 1}} />
-                  </linearGradient>
-                  <linearGradient id="flowerGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
-                    <stop offset="0%" style={{stopColor: "#ff6b9d", stopOpacity: 1}} />
-                    <stop offset="100%" style={{stopColor: "#e91e63", stopOpacity: 1}} />
-                  </linearGradient>
-                  <linearGradient id="flowerGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
-                    <stop offset="0%" style={{stopColor: "#ffd700", stopOpacity: 1}} />
-                    <stop offset="100%" style={{stopColor: "#ffa500", stopOpacity: 1}} />
-                  </linearGradient>
-                  <linearGradient id="flowerGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
-                    <stop offset="0%" style={{stopColor: "#9c27b0", stopOpacity: 1}} />
-                    <stop offset="100%" style={{stopColor: "#673ab7", stopOpacity: 1}} />
-                  </linearGradient>
-                </defs>
-                <rect width="800" height="600" fill="#ffeef8"/>
-                <path d="M400 100 Q300 120 250 200 Q200 300 250 400 Q300 500 400 520 Q500 500 550 400 Q600 300 550 200 Q500 120 400 100 Z" fill="url(#brainGrad)" stroke="#e91e63" strokeWidth="3"/>
-                <path d="M350 150 Q320 180 300 220" stroke="#e91e63" strokeWidth="2" fill="none"/>
-                <path d="M450 150 Q480 180 500 220" stroke="#e91e63" strokeWidth="2" fill="none"/>
-                <path d="M380 200 Q360 240 350 280" stroke="#e91e63" strokeWidth="2" fill="none"/>
-                <path d="M420 200 Q440 240 450 280" stroke="#e91e63" strokeWidth="2" fill="none"/>
-                <circle cx="350" cy="180" r="8" fill="url(#flowerGrad1)"/>
-                <circle cx="450" cy="180" r="8" fill="url(#flowerGrad2)"/>
-                <circle cx="380" cy="240" r="6" fill="url(#flowerGrad3)"/>
-                <circle cx="420" cy="240" r="6" fill="url(#flowerGrad1)"/>
-                <circle cx="400" cy="300" r="7" fill="url(#flowerGrad2)"/>
-                <circle cx="370" cy="350" r="5" fill="url(#flowerGrad3)"/>
-                <circle cx="430" cy="350" r="5" fill="url(#flowerGrad1)"/>
-                <rect x="300" y="520" width="200" height="60" fill="#ffffff" stroke="#e91e63" strokeWidth="2" rx="10"/>
-                <text x="400" y="560" textAnchor="middle" fill="#e91e63" fontSize="16" fontWeight="bold">MY BRAIN WHEN I'M WITH YOU</text>
-              </svg>
-            </div>
-            <div className="brain-quote">
-              "Just like this beautiful brain sculpture, my mind blooms with joy, creativity, and love when I'm with you."
-            </div>
-            <div className="brain-description">
-              This stunning sculpture represents how my thoughts and feelings flourish when I'm with you. Every flower represents a beautiful moment, a shared laugh, a tender touch, or a loving glance. My brain truly comes alive with colors, emotions, and pure happiness when you're by my side. You make my world bloom with love and beauty, just like these flowers blooming from the brain.
-            </div>
-          </div>
-        </div>
-      </section>
+
 
       {/* Photo Gallery Section */}
       <section className="photo-gallery">
