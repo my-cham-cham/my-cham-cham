@@ -548,28 +548,7 @@ body {
   font-weight: bold;
 }
 
-/* CTA Section */
-.cta-section {
-  padding: 5rem 0;
-  background: linear-gradient(135deg, #e91e63 0%, #9c27b0 100%);
-  color: white;
-  text-align: center;
-}
 
-.cta-section h2 {
-  font-size: 2.5rem;
-  margin-bottom: 1rem;
-  text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
-}
-
-.cta-section p {
-  font-size: 1.2rem;
-  margin-bottom: 2rem;
-  max-width: 600px;
-  margin-left: auto;
-  margin-right: auto;
-  line-height: 1.8;
-}
 
 /* Responsive Design */
 @media (max-width: 768px) {
