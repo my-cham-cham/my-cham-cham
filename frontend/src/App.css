@@ -185,7 +185,8 @@ body {
 /* Love Story Section */
 .love-story {
   padding: 5rem 0;
-  background: linear-gradient(135deg, #ffeef8 0%, #fff0f5 100%);
+  background: linear-gradient(135deg, #2d2d2d 0%, #1a4d3a 100%);
+  color: white;
 }
 
 .love-story-content {
