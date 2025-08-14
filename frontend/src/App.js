@@ -220,48 +220,59 @@ function App() {
             <h2 className="section-title">My Favorite Photos of You 📸💕</h2>
             <div className="gallery-grid">
               <div className="gallery-item">
-                <div className="gallery-category">Locker Room Vibes</div>
+                <div className="gallery-category">Handsome Perfection</div>
                 <img 
-                  src="https://customer-assets.emergentagent.com/job_6b724278-85bb-43c0-bf00-821017067555/artifacts/hmdxmr8g_9FF0A2BF-DA2F-4926-A03C-86D289F4C7B0.JPG" 
+                  src="https://customer-assets.emergentagent.com/job_pic-collection-8/artifacts/0nadmcn2_7A77F5DF-828F-4B61-BFF6-F3D42A9658F0.JPG" 
                   className="gallery-photo" 
-                  alt="Handsome gym selfie" 
+                  alt="Handsome portrait" 
                   width="347" 
                   height="300"
                 />
-                <div className="gallery-caption">Your confidence and that mysterious vibe in the locker room</div>
+                <div className="gallery-caption">Your natural charm and that gorgeous face that takes my breath away</div>
               </div>
               <div className="gallery-item">
-                <div className="gallery-category">Travel Style</div>
+                <div className="gallery-category">Casual Elegance</div>
                 <img 
-                  src="https://customer-assets.emergentagent.com/job_6b724278-85bb-43c0-bf00-821017067555/artifacts/y7l5u069_F51B6A9F-DC21-4889-B7C6-886F13756C67.JPG" 
+                  src="https://customer-assets.emergentagent.com/job_pic-collection-8/artifacts/xje5gs88_10E945B2-2951-4CE8-A690-C0432982D04E.JPG" 
                   className="gallery-photo" 
-                  alt="Stylish travel selfie" 
+                  alt="Casual elegance" 
                   width="347" 
                   height="300"
                 />
-                <div className="gallery-caption">Your amazing style and that perfect travel selfie</div>
+                <div className="gallery-caption">Your effortless style and that perfect casual look</div>
               </div>
               <div className="gallery-item">
-                <div className="gallery-category">Gym Dedication</div>
+                <div className="gallery-category">Adorable Smile</div>
                 <img 
-                  src="https://customer-assets.emergentagent.com/job_6b724278-85bb-43c0-bf00-821017067555/artifacts/uar3unep_DEC9FF47-D483-49AC-BA3F-F9D0DC58E17D.JPG" 
+                  src="https://customer-assets.emergentagent.com/job_pic-collection-8/artifacts/7aee3m41_89E81A65-0C8C-4E00-A585-9E30B503C6DA_4_5005_c.jpeg" 
                   className="gallery-photo" 
-                  alt="Focused workout session" 
+                  alt="Beautiful smile" 
                   width="347" 
                   height="300"
                 />
-                <div className="gallery-caption">Your dedication and focus during workouts - so inspiring!</div>
+                <div className="gallery-caption">That beautiful smile that lights up my entire world</div>
               </div>
               <div className="gallery-item">
-                <div className="gallery-category">Casual Perfection</div>
+                <div className="gallery-category">Confident Charm</div>
                 <img 
-                  src="https://customer-assets.emergentagent.com/job_6b724278-85bb-43c0-bf00-821017067555/artifacts/ijjjbd1t_09EB8065-17D7-4B70-850A-2D90FAE7F2D2.JPG" 
+                  src="https://customer-assets.emergentagent.com/job_pic-collection-8/artifacts/vr547ufw_C6D5D368-5793-4D80-9873-297A32BCC3FA_4_5005_c.jpeg" 
                   className="gallery-photo" 
-                  alt="Casual mirror selfie" 
+                  alt="Confident and charming" 
                   width="347" 
                   height="300"
                 />
-                <div className="gallery-caption">Your casual style and that perfect mirror selfie</div>
+                <div className="gallery-caption">Your confidence and natural charisma that captivates everyone</div>
+              </div>
+              <div className="gallery-item">
+                <div className="gallery-category">Perfect Moment</div>
+                <img 
+                  src="https://customer-assets.emergentagent.com/job_pic-collection-8/artifacts/ud33qg5o_54AA856A-C4EC-4C51-9E10-8FC35821ACE5.JPG" 
+                  className="gallery-photo" 
+                  alt="Perfect moment capture" 
+                  width="347" 
+                  height="300"
+                />
+                <div className="gallery-caption">Every moment with you is perfect, just like this beautiful photo</div>
               </div>
             </div>
           </div>
