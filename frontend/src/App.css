@@ -9,7 +9,7 @@ body {
   font-family: 'Arial', sans-serif;
   line-height: 1.6;
   color: #333;
-  background: linear-gradient(135deg, #ffeef8 0%, #fff0f5 100%);
+  background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 50%, #1a4d3a 100%);
 }
 
 .birthday-card {
