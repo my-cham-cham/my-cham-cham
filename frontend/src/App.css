@@ -203,13 +203,14 @@ body {
 
 .love-story-text {
   font-size: 1.2rem;
-  color: #666;
+  color: #fff;
   margin: 2rem 0;
   line-height: 1.8;
   padding: 2rem;
-  background: rgba(255, 255, 255, 0.7);
+  background: rgba(139, 0, 0, 0.3);
   border-radius: 15px;
-  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+  box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+  border: 1px solid rgba(218, 165, 32, 0.2);
 }
 
 /* Brain Section */
