@@ -213,49 +213,7 @@ body {
   border: 1px solid rgba(218, 165, 32, 0.2);
 }
 
-/* Brain Section */
-.brain-section {
-  padding: 5rem 0;
-  background: #fff;
-}
 
-.brain-content {
-  text-align: center;
-  max-width: 900px;
-  margin: 0 auto;
-}
-
-.brain-image-container {
-  margin: 3rem 0;
-}
-
-.brain-image {
-  max-width: 100%;
-  height: auto;
-  border-radius: 20px;
-  box-shadow: 0 15px 40px rgba(0,0,0,0.1);
-  animation: float 6s ease-in-out infinite;
-}
-
-.brain-quote {
-  font-size: 1.3rem;
-  color: #e91e63;
-  font-style: italic;
-  margin: 2rem 0;
-  padding: 1.5rem;
-  background: linear-gradient(135deg, #ffeef8 0%, #fff0f5 100%);
-  border-radius: 15px;
-  border-left: 4px solid #e91e63;
-}
-
-.brain-description {
-  font-size: 1.1rem;
-  color: #666;
-  line-height: 1.8;
-  padding: 2rem;
-  background: rgba(248, 249, 250, 0.8);
-  border-radius: 15px;
-}
 
 /* Photo Gallery Section */
 .photo-gallery {
