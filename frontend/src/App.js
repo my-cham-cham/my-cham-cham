@@ -411,14 +411,7 @@ function App() {
         </div>
       </section>
 
-      {/* CTA Section */}
-      <section className="cta-section" id="contact">
-        <div className="container">
-          <h2>Forever & Always</h2>
-          <p>I promise to love you more with each passing day. You deserve all the happiness, success, and love in the world. Happy Birthday, my everything! 🎂💖</p>
-          <a href="#" className="cta-button">I Love You ❤️</a>
-        </div>
-      </section>
+
     </div>
   );
 }
